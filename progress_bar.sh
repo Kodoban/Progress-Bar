@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#comment
+
 PROGRESS=0
 RANDOM=$$
 SYMBOL="="
